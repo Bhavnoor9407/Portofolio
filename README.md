@@ -17,12 +17,12 @@
 
 ```python
 jairaj = {
-    "name"      : "Jairaj R",
-    "location"  : "Thiruvananthapuram, Kerala, India",
-    "degree"    : "B.Tech CSE @ College of Engineering Trivandrum (CET)",
+    "name"      : "Bhavnoor Singh",
+    "location"  : "Mohali, Punjab, India",
+    "degree"    : "B.Tech CSE Ai/ML@ Amity University Punjab (AUP)",
     "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "DSA"],
     "currently" : "Building intelligent systems & competing in hackathons",
-    "website"   : "https://jairajr.vercel.app/",
+    "website"   : "https://bhavnoor.vercel.app/",
 }
 ```
 
