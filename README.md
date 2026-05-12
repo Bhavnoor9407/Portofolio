@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jairajr.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jairajr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairaj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairaj-r-47a930333)
-[![Gmail](https://img.shields.io/badge/Gmail-jairajrenjith@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairajrenjith@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jairajrenjith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairajrenjith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhavnoor.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://Bhavnoor.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavnoor_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavnoor-singh-22a64037a/)
+[![Gmail](https://img.shields.io/badge/Gmail-bhavnoor6116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavnoor6116@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jairajrenjith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavnoor9407)
 
 </div>
 
